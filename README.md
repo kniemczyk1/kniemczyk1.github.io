@@ -9,4 +9,3 @@ Paragraf 3
 
 **BOLDTEXT**
 *KURSYWA*
-~Przekreslenie~
